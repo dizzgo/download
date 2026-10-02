@@ -22,8 +22,8 @@ Arma tu combo, ponle nombre y recíbelo en tu puerta.
 
 Dizzgo se encuentra actualmente **en revisión en Google Play**. Mientras tanto, puedes instalarla directamente desde este repositorio:
 
-1. Entra a la sección [**Releases**](https://github.com/TU_USUARIO/TU_REPO/releases/latest) de este repositorio.
-2. Descarga el archivo `dizzgo.apk` de la última versión.
+1. Entra a la sección [**Releases**](https://github.com/dizzgo/download/releases/tag/v2.x.x) de este repositorio.
+2. Descarga el archivo `v2.0.0-dizzgo-android.apk` de la última versión.
 3. Ábrelo en tu celular Android. Si es necesario, activa **"Instalar apps de orígenes desconocidos"** cuando el sistema te lo pida.
 4. Abre Dizzgo, agrega tus productos y haz tu pedido.
 
@@ -76,19 +76,9 @@ La app cuenta con cuatro secciones principales en la barra inferior:
 
 ---
 
-## 🗺️ Estado del proyecto
-
-- [x] Catálogo de licores y complementos
-- [x] Combos personalizados con nombre
-- [x] Flujo de pedido (delivery y recojo en tienda)
-- [ ] Publicación en Google Play *(en revisión)*
-- [ ] Más categorías y promociones
-
----
-
 ## 🐞 ¿Encontraste un problema o tienes una idea?
 
-Abre un [**Issue**](https://github.com/TU_USUARIO/TU_REPO/issues) en este repositorio contándonos qué pasó o qué te gustaría ver en Dizzgo.
+Abre un [**Issue**](https://github.com/dizzgo/download/issues) en este repositorio contándonos qué pasó o qué te gustaría ver en Dizzgo.
 
 ---
 
