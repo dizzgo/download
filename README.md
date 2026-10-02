@@ -1,10 +1,12 @@
 # Dizzgo: Tu app de licores
 
+[![Descargar APK](https://img.shields.io/badge/Descarga%20Aqui%20la%20App%20Oficial%20de%20Dizzgo-blue?style=for-the-badge&logo=android)](https://github.com/dizzgo/download/releases/tag/v2.x.x)
+
 ### Tu delivery de licores disponible en Abancay, armado a tu manera.
 
 Arma tu combo, ponle nombre y recíbelo en tu puerta.
 
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK%20Android-black?style=for-the-badge&logo=android)](https://github.com/TU_USUARIO/TU_REPO/releases/latest)
+
 ![Estado](https://img.shields.io/badge/Google%20Play-En%20revisi%C3%B3n-orange?style=for-the-badge&logo=googleplay)
 ![Plataforma](https://img.shields.io/badge/Plataforma-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
